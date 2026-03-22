@@ -31,6 +31,6 @@ As a former Marine Corps infantryman, I bring a highly disciplined, adaptable, a
 ---
 
 ### ⚡ Beyond the Code
-When I step away from the keyboard, you can usually find me training martial arts, targeting inshore saltwater species on the water, or spending time outdoors gardening. 
+When I step away from the keyboard, you can usually find me training martial arts, fishin' for catfish or big reds, or spending time outdoors tending my garden. 
 
 📫 **Let's Connect:** [bobby.professional@protonmail.com]
