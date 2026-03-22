@@ -9,8 +9,8 @@ As a former Marine Corps infantryman, I bring a highly disciplined, adaptable, a
 
 ### 🔭 Current Focus
 *   **Academic Coursework:** Deep diving into Advanced Data Visualization, Machine Learning & Data Analysis, and Natural Language Processing.
-*   **Self-Study:** *Upcoming project: Building an LLM from scratch*
-*   **Active Project:** Developing a Natural Language Processing (NLP) pipeline focused on language revitalization and machine translation for Louisiana Creole (Kouri Vini). 
+*   **Active Project:** Developing a Natural Language Processing (NLP) pipeline focused on language revitalization and machine translation for Louisiana Creole (Kouri Vini).
+*   *Upcoming project: Building an LLM from scratch* 
 
 ### 🛠️ Technical Arsenal
 *   **Languages:** Python, SQL, Swift 
