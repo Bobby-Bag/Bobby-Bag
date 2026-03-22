@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Bobby-Bag
 -   I graduated with a B.S. in Computer Information Systems with a Cyber Security minor.
-- 👀 I’m interested in cyber security and secure programming.
-- 🌱 I’m currently learning Python, UNIX, and Bug Bounty Hunting.
-- 💞️ I’m looking to collaborate on ANYTHING WORTH LEARNING. I am an eager learner who wants to make the internet a safer place.
+-   I am currently pursuing a M.S. in Data Science.
+-   I enjoy writing beautiful notebooks for doing analysis and testing ML models.
 - 📫 How to reach me:
 -   bobby.professional@protonmail.com
 
