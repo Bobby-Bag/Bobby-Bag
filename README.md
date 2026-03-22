@@ -25,7 +25,7 @@ As a former Marine Corps infantryman, I bring a highly disciplined, adaptable, a
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[MMA Striking Performance Classifier](https://github.com/Bobby-Bag/mma-striking-fight-prediction)** | A machine learning classification model utilizing L1 Regularization to predict UFC fight outcomes based strictly on historical striking differentials. Outperformed a 56.4% naive baseline. | `Python`, `Scikit-Learn`, `Pandas` |
-| **[Superstore Retail KPI Dashboard]([Insert Repo Link])** | An interactive BI dashboard analyzing regional sales performance, profitability heatmaps, and dynamic customer segment filtering to drive data-informed decision-making. | `Tableau`, `Data Visualization` |
+| **[Superstore Retail KPI Dashboard]([https://github.com/Bobby-Bag/Retail-KPI-Dashboard])** | An interactive BI dashboard analyzing regional sales performance, profitability heatmaps, and dynamic customer segment filtering to drive data-informed decision-making. | `Tableau`, `Data Visualization` |
 | **[iOS Calculators & Converters](https://github.com/Bobby-Bag/iOS_calculator)** | A demonstration of software development fundamentals, showcasing custom two-value operations, numerical integration, and clean app architecture. | `Swift`, `iOS Development` |
 
 ---
