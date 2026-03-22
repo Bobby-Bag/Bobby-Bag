@@ -1,6 +1,5 @@
 # Hi there, I'm Bobby 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bagley0321])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagley0321)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bobby-Bag)
 
 I am a data professional with a passion for extracting actionable insights from complex datasets. Currently pursuing an **M.S. in Data Science at the University of Houston-Clear Lake**, I am actively expanding my expertise in machine learning, data visualization, and the practical applications of Large Language Models (LLMs).
