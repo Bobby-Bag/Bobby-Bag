@@ -7,9 +7,10 @@ I am a data professional with a passion for extracting actionable insights from 
 As a former Marine Corps infantryman, I bring a highly disciplined, adaptable, and rigorous approach to problem-solving. I thrive in project-based environments and pride myself on my ability to translate highly technical findings into clear, impactful writing for both academic and business stakeholders.
 
 ### 🔭 Current Focus
-*   **Academic Coursework:** Deep diving into Advanced Data Visualization, Machine Learning & Data Analysis, and Natural Language Processing.
-*   **Active Project:** Developing a Natural Language Processing (NLP) pipeline focused on language revitalization and machine translation for Louisiana Creole (Kouri Vini).
-*   *Upcoming project: Building an LLM from scratch* 
+*   **Academic Coursework:** Deep diving into Big Data Analysis & Capstone course.
+*   **Current project**: Improving the AI agent **LeafTutor** with a focus on Human Computer Interaction principles.
+*   *Upcoming project: Building an LLM from scratch*
+*   *Shelfed Project:* Developing a Natural Language Processing (NLP) pipeline focused on language revitalization and machine translation for Louisiana Creole (Kouri Vini).
 
 ### 🛠️ Technical Arsenal
 *   **Languages:** Python, SQL, Swift 
